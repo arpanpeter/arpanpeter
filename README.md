@@ -1,4 +1,4 @@
-<!-- <img src="https://github.com/arpanpeter/arpanpeter/blob/master/hello.gif" alt = "hello" width="40px" height="40px"> -->
+<!-- <img src="https://https://github.com/arpanpeter/arpanpeter/blob/main/hello.gif" alt = "hello" width="40px" height="40px"> -->
 <h1 align="center"> <img src="https://github.com/arpanpeter/arpanpeter/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/arpanpeter/">Arpan Peter</a>👨‍💻</h1>
 <!-- # ARPAN PETER 👨‍💻 -->
 
